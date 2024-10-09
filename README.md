@@ -40,8 +40,8 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/haproxy-nginx-mtls-setup.git
-   cd haproxy-nginx-mtls-setup
+   git clone https://github.com/RollingInCode/mTLS-enforcement.git
+   cd mTLS-enforcement
    ```
 
 2. Install required Python packages:
